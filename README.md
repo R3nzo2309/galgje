@@ -12,3 +12,7 @@
 ## Beurten
 1. a - goed!
 2. e - fout
+3. m - goed
+4. t - goed
+5. o - goed
+6. r - goed
